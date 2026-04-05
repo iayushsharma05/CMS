@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e02d76a-b16f-4113-885d-605c7ee88e78" /># 🎓 College Management System (CMS)
+# 🎓 College Management System (CMS)
 
 A full-stack MERN (MongoDB, Express, React, Node.js) based College Management System designed to automate and manage academic and administrative activities efficiently.
 
