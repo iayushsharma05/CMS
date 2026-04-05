@@ -1,4 +1,4 @@
-# 🎓 College Management System (CMS)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e02d76a-b16f-4113-885d-605c7ee88e78" /># 🎓 College Management System (CMS)
 
 A full-stack MERN (MongoDB, Express, React, Node.js) based College Management System designed to automate and manage academic and administrative activities efficiently.
 
@@ -140,8 +140,9 @@ npm start
 ---
 
 ## 📸 Screenshots
-
-_Add your project screenshots here_
+<img width="1918" height="861" alt="image" src="https://github.com/user-attachments/assets/f086a3d1-3be3-4d31-aa89-423f9941a4d8" />
+<img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/27f2f188-15b1-4223-b112-24bf14ca5360" />
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/90bb131c-3fb7-4779-8182-85e4aec54042" />
 
 ---
 
@@ -157,14 +158,13 @@ Contributions are welcome!
 ---
 
 ## 🐛 Issues
-
-If you find any bugs or issues, feel free to open an issue.
+This Project Have Only Course And Semester Option Now i want to Add Section System Here 
 
 ---
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. 2026 ™
 
 ---
 
